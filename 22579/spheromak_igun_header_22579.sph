@@ -1,0 +1,3 @@
+#Calibration from G:\data\spheromak\igun_rogowski_calib\2007-09-24
+#Period(sec.), start_index, data_length, mean bias estimate, attenuator(dB), calibration factor(Amps/Volt)
+1.0E-008,0,16384,0.528025,0,352437.562500

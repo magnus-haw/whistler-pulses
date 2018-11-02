@@ -1,0 +1,9 @@
+#Calibration factors and mean calculated from data on 03/30/2007
+#Period(sec.), start_index, data_length, mean-2, attenuator(dB)-2, calibration-2
+1.0E-008,0,131072,0.200000,0.500000,0,0,0.000000,0.000000
+0.000000
+0.000000
+1.000000
+1.000000
+1.000000
+1.000000
