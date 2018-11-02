@@ -1,0 +1,3 @@
+#Check the one note page created on Jul 26, 2007 Calibration - Spheromak/High Voltage Probe
+#Period(sec.), start_index, data_length, mean bias estimate, attenuator(dB), calibration factor
+1.0E-008,0,16384,0.500271,30,2197.280029
